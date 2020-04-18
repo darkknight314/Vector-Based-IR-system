@@ -10,7 +10,7 @@ The folders corresponding to part1,modification 1 and modification 2 are Part 1,
 To run a model follow these steps:-
 1. Open command prompt
 2. cd into directory of model you wish to run
-3. Run python index_creation.py to generate the required indexes from the corpus
+3. Run python index_creation.py to populate the required indexes from the corpus
 4. Run python test_queries.py 
 
 The report can be found here : https://github.com/darkknight314/Vector-Based-IR-system/wiki/Report.pdf
